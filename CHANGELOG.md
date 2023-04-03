@@ -1,25 +1,27 @@
-## [Unreleased]
+# Changelog
+
+## [1.0.0] - YYYY-MM-DD
 
 ### Added
 
-- Support for new API endpoint `/api/v2`.
+- List of new features added in this version
 
 ### Changed
 
-- Updated dependencies to latest versions.
+- List of changes made to existing features in this version
+
+### Deprecated
+
+- List of features that have been marked as deprecated in this version
+
+### Removed
+
+- List of features that have been removed in this version
 
 ### Fixed
 
-- Issue with authentication token not being refreshed properly.
+- List of bugs that have been fixed in this version
 
-## [1.0.0] - January 1, 2020
+### Security
 
-### Added
-
-- Initial release of My SDK.
-
-## [0.1.0] - December 15, 2019
-
-### Added
-
-- Basic functionality for interacting with the My API.
+- List of security-related changes made in this version
