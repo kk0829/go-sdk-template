@@ -1,10 +1,10 @@
-# Contributing to My SDK
+# Contributing to this
 
-Thank you for your interest in contributing to My SDK! Here are some guidelines to help you get started.
+Thank you for your interest in contributing to this lib! Here are some guidelines to help you get started.
 
 ## Reporting Issues
 
-If you encounter any issues or bugs with My SDK, please [submit an issue](https://github.com/%7Byour_username%7D/%7Byour_repository%7D/issues/new) on GitHub. When submitting an issue, please include the following information:
+If you encounter any issues or bugs with this lib, please [submit an issue](https://github.com/%7Byour_username%7D/%7Byour_repository%7D/issues/new) on GitHub. When submitting an issue, please include the following information:
 
 - A brief summary of the issue
 - Steps to reproduce the issue
@@ -24,7 +24,3 @@ If you would like to contribute code to My SDK, please follow these steps:
 6. Submit a pull request to the main repository
 
 Please make sure that your code follows the [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) and that your changes include tests.
-
-## Code of Conduct
-
-Please note that My SDK has a [Code of Conduct](notion://www.notion.so/kk0829/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report any unacceptable behavior to the project maintainers.
